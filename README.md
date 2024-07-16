@@ -12,6 +12,20 @@ My first class, the Url class, serves as a blueprint for representing and managi
 ![Screenshot (112)](https://github.com/user-attachments/assets/175b77c1-20b7-4618-b0ee-b2b87a7cd209)
 ![Screenshot (113)](https://github.com/user-attachments/assets/7fbc297f-5c3f-4fe5-9c40-bf09133cb8f3)
 
-# URLCreator
+# URLCreator Class
 
-My second class, the UrlCreator class, utilizes a Scanner object to interactively prompt users for essential details such as domain name, optional subdomain, path, and security preferences (HTTP or HTTPS). Through well-defined methods for user input handling and validation, it ensures accurate construction of URLs based on user specifications. Once all necessary details are gathered, an instance of the Url class is instantiated and populated with these attributes. Finally, the UrlCreator class orchestrates the process of collecting user inputs, constructing a complete URL, and displaying comprehensive information about the generated URL through the Url class methods.
+My second class, the UrlCreator class, utilizes a Scanner object to interactively prompt users for essential details such as domain name, optional subdomain, path, and security preferences (HTTP or HTTPS). Through well-defined methods for user input handling and validation, it ensures accurate construction of URLs based on user specifications. Once all necessary details are gathered, an instance of the Url class is initialized and populated with these attributes. Finally, the UrlCreator class orchestrates the process of collecting user inputs, constructing a complete URL, and displaying comprehensive information about the generated URL through the Url class methods.
+
+![Screenshot (114)](https://github.com/user-attachments/assets/0957355e-b38f-409e-b189-9838c85e8ea9)
+
+# Console Example
+
+Here is a console example of what information the user can input that results in their URL when following the prompting steps. 
+
+![Screenshot (115)](https://github.com/user-attachments/assets/ec20b872-6280-46b0-ad5e-e2e0b8742834)
+
+In this example, we have a domain, subdomain, path, and are asking the user questions such as if the website is a non-profit and is secure or not. 
+
+
+
+
