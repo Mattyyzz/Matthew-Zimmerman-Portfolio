@@ -1,7 +1,11 @@
 # Matthew-Zimmerman-Portfolio
 A portfolio featuring my knowledge of various applications. 
 
-# Java- URL Creation Project 
+# Java: URL Creation Project 
+
+I programmed in the Eclipse IDE for Java Developers - 2023-06 fort this project.
+
+![image](https://github.com/user-attachments/assets/71a59edb-6620-4659-b49c-796dd6144bab)
 
 This project involved developing a Java application to dynamically generate and manage URLs for websites. I applied fundamental Java programming concepts such as object-oriented design, encapsulation (using getters and setters for attributes), and user input handling (using the Scanner class). I also utilized concepts such as attributes, methods, strings, booleans, and if-else statements to develop my code. By incorporating these Java properties, the program ensured robustness and flexibility in constructing URLs based on user-specified domain, subdomain, path, and security preferences (HTTP or HTTPS). Aditionally, users could indicate whether the website served a non-profit or for-profit purpose, influencing the URL's structure and content presentation. This project exemplifies my proficiency in Java development and my ability to create practical solutions that meet specific application requirements with clarity and precision.
 
