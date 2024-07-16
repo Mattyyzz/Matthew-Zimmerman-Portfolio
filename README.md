@@ -3,7 +3,7 @@ A portfolio featuring my knowledge of various applications.
 
 # Java: URL Creation Project 
 
-I programmed in the Eclipse IDE for Java Developers - 2023-06 for this project.
+I programmed in the 'Eclipse IDE for Java Developers - 2023-06' for this project.
 
 ![image](https://github.com/user-attachments/assets/71a59edb-6620-4659-b49c-796dd6144bab)
 
