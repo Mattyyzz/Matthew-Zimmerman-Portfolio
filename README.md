@@ -10,5 +10,4 @@ This project involved developing a Java application to dynamically generate and 
 My first class, the Url class, serves as a blueprint for representing and managing URL attributes within a Java application. It encapsulates essential components such as the complete URL, domain, optional subdomain, path, and security status (secure or not). Through its setter methods, it allows for dynamic updating of these attributes, ensuring that the complete URL is consistently updated based on any changes. The class also includes methods like printUrlInfo() to display comprehensive information about the URL, including whether the site is non-profit or for-profit, which is crucial for distinguishing between different types of organizations. 
 
 ![Screenshot (112)](https://github.com/user-attachments/assets/175b77c1-20b7-4618-b0ee-b2b87a7cd209)
-
 ![Screenshot (113)](https://github.com/user-attachments/assets/7fbc297f-5c3f-4fe5-9c40-bf09133cb8f3)
