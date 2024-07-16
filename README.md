@@ -28,7 +28,7 @@ Here is a console example of what information the user can input that results in
 
 ![Screenshot (115)](https://github.com/user-attachments/assets/ec20b872-6280-46b0-ad5e-e2e0b8742834)
 
-In this example, we have a domain, subdomain, path, and are asking the user questions such as if the website is a non-profit and is secure or not. 
+In this example, we have a domain, subdomain, path, and are asking the user questions such as if the website is a non-profit and is it secure or not. 
 
 
 
