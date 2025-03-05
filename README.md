@@ -1,5 +1,5 @@
-# Matthew-Zimmerman-Portfolio
-A portfolio featuring my knowledge of various applications. 
+# Matthew-Zimmerman-Java
+A portfolio featuring my knowledge of Java.
 
 # Java: URL Creation Project 
 
